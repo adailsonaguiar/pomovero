@@ -2,6 +2,19 @@
 
 > **pomo_vero** é um timer Pomodoro para desktop, construído com **Wails v2** (o "Electron alternativo para Go"). Combina um backend compilado em Go com um frontend web elegante em React/TypeScript dentro de uma **WebView nativa** do sistema, resultando em um binário de apenas ~9 MB com aspecto e sensação de aplicativo nativo.
 
+## Capturas de tela
+
+Screenshots da aplicação rodando nativamente no macOS:
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <img src="images/screenshot-1.png" alt="Timer Pomodoro" width="260"/> | <img src="images/screenshot-2.png" alt="Timer em andamento" width="260"/> |
+| <img src="images/screenshot-3.png" alt="Sessões e insights" width="260"/> | <img src="images/screenshot-4.png" alt="Configurações" width="260"/> |
+
+</div>
+
 ---
 
 ## 1. Resumo executivo
