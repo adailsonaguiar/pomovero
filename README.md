@@ -195,4 +195,3 @@ O resultado do build fica em `build/bin/`. Para instaladores `.dmg`/`.pkg` assin
 
 - [Arquitetura e comunicação Backend-Frontend](./ARQUITETURA.md)
 - [Instalador para macOS](./INSTALADOR_MAC.md)
-- [Texto para LinkedIn](./LINKEDIN_POST.md)
