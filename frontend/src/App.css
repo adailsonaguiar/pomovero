@@ -1,0 +1,3 @@
+/* Remove default Wails App.css content if it interferes with Tailwind or custom styles */
+/* Keep this file if you plan to add specific CSS that Tailwind doesn't cover */
+
